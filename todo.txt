@@ -1,0 +1,4 @@
+===Daily Tasks===
+1.Student Grade Calculation
+2.Atm Simulator
+3.Number Guessing Game
