@@ -1,3 +1,4 @@
+#print last index without directly using -1
 arr = [10,15,20,25,30,35,40]
 las_index = len(arr)-1
 print(arr[las_index])
