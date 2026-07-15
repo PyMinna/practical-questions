@@ -9,7 +9,8 @@ class Lion(Animal):
 class Elephant(Animal):
     def sound(self):
         return 'Elephant sound: Ghaa...'
-    
+
+#polymorphism
 sounds = [Lion(),Elephant()]
 
 for s in sounds:
