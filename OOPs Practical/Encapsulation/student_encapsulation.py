@@ -9,5 +9,5 @@ class student:
         return self.__mark
     
 m = student(90)
+m.add(10)
 print(m.get_mark())
-print(m.__mark)
