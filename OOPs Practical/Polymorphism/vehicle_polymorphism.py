@@ -5,7 +5,8 @@ class Car:
 class Bike:
     def start(self):
         return "Bike starts.."
-    
+
+#polymorphism
 def start_vehicle(vehicle):
     print(vehicle.start())
 
