@@ -5,7 +5,8 @@ class PDFreader:
 class ImageViewer:
     def open(self):
         return "View sky.png"
-    
+
+#polymorphism    
 def view_pdf(view):
     print(view.open())
 

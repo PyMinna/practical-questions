@@ -7,7 +7,7 @@ class calculate:
 
 class sub_calculate(calculate):
     def show_calculation(self):
-        return(self.addition)
+        return self.addition
         
     
 c = sub_calculate(13)
